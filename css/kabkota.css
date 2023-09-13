@@ -1,0 +1,178 @@
+.kabkota{   
+    width: 45%;
+    height: 400px;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 5%;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+.ternate{
+    width: 50%;
+    height: 40px;
+    position: absolute;
+    background-color: #947B62;
+    text-decoration: none;
+    border-radius: 25px;
+    margin-top: 23px;
+    margin-left: 3%;   
+}
+.ternate p{
+    color: #505050;
+    margin-top: 5px;
+    font-size: 1.4vw;
+    font-weight: 600;
+    margin-left: 5%;
+}
+
+.tidore{
+    width: 90%;
+    height: 40px;
+    position: absolute;
+    background-color: #CCD5AE;
+    text-decoration: none;
+    border-radius: 15px;
+    margin-top: 86px;
+    margin-left: 3%;  
+}
+.tidore p{
+    color: #505050;
+    margin-top: 5px;
+    font-size: 1.4vw;
+    font-weight: 600;
+    margin-left: 5%;
+}
+
+.halmahera-barat{
+    width: 70%;
+    height: 40px;
+    position: absolute;
+    background-color: #D4A373;
+    text-decoration: none;
+    border-radius: 15px;
+    margin-top: 149px;
+    margin-left: 3%;  
+}
+.halmahera-barat p{
+    color: #505050;
+    margin-top: 5px;
+    font-size: 1.4vw;
+    font-weight: 600;
+    margin-left: 5%;
+}
+
+.halmahera-selatan{
+    width: 80%;
+    height: 40px;
+    position: absolute;
+    background-color: #CCD5AE;
+    text-decoration: none;
+    border-radius: 15px;
+    margin-top: 212px;
+    margin-left: 3%;  
+}
+.halmahera-selatan p{
+    color: #505050;
+    margin-top: 5px;
+    font-size: 1.4vw;
+    font-weight: 600;
+    margin-left: 5%;
+}
+
+.halmahera-utara{
+    width: 85%;
+    height: 40px;
+    position: absolute;
+    background-color: #D4A373;
+    text-decoration: none;
+    border-radius: 15px;
+    margin-top: 275px;
+    margin-left: 3%;  
+}
+.halmahera-utara p{
+    color: #505050;
+    margin-top: 5px;
+    font-size: 1.4vw;
+    margin-left: 5%;
+    font-weight: 600;
+}
+
+.taliabu{
+    width: 50%;
+    height: 40px;
+    position: absolute;
+    background-color: #CCD5AE;
+    text-decoration: none;
+    border-radius: 15px;
+    margin-top: 335px;
+    margin-left: 3%;  
+}
+.taliabu p{
+    color: #505050;
+    margin-top: 5px;
+    font-size: 1.4vw;
+    margin-left: 5%;
+    font-weight: 600;
+}
+
+.student-score{
+    width: 23%;
+    height: 190px;
+    position: absolute;
+    background-color: #ffffff;
+    margin-left: 57%;
+    margin-top: 2%;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.profil{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background-color: #CCD5AE;
+    border-radius: 50px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.profil img{
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+}
+
+.name-student{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 34%;
+}
+.score{
+    position: absolute;
+    margin-top: 42%;
+    margin-left: 34%;
+}
+
+.lanjutkan{
+    position: absolute;
+    width: 23%;
+    height: 50px;
+    background-color: #CCD5AE;
+    color: #505050;
+    margin-top: 27%;
+    margin-left: 57%;
+    border-radius: 10px;
+}
+
+.l{
+    position: absolute;
+    font-size: 1.4vw;
+    font-weight: 500;
+    margin-top: 3%;
+    margin-left: 5%;
+    color: #505050;
+}
+.w{
+    position: absolute;
+    font-size: 0.7vw;
+    color: #ff0505;margin-left: 1%;
+}

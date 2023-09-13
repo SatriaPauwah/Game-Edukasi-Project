@@ -1,0 +1,104 @@
+.ternate{   
+    width: 45%;
+    height: 400px;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 10%;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.card1{
+    width: 90%;
+    height: 350px;
+    border-radius: 20px;
+    margin-top: 4%;
+    margin-left: 5%;
+    background-color: #a3a1a1;
+}
+
+
+.student-score{
+    width: 23%;
+    height: 190px;
+    position: absolute;
+    background-color: #ffffff;
+    margin-left: 57%;
+    margin-top: 2%;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.profil{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background-color: #CCD5AE;
+    border-radius: 50px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.profil img{
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+}
+
+.name-student{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 34%;
+}
+.score{
+    position: absolute;
+    margin-top: 42%;
+    margin-left: 34%;
+}
+
+.presensi{
+    position: absolute;
+    width: 23%;
+    height: 19%;
+    margin-top: 17%;
+    margin-left: 57%;
+    border-radius: 5px;
+    background-color: #dfdbdb;
+}
+
+.get-name-student{
+    position: absolute;
+    margin-left: 10%;
+}
+
+.presensi-by-kalender{
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 10%;
+}
+
+
+
+.lanjutkan{
+    position: absolute;
+    width: 23%;
+    height: 50px;
+    background-color: #CCD5AE;
+    color: #505050;
+    margin-top: 27%;
+    margin-left: 57%;
+    border-radius: 10px;
+}
+
+.l{
+    position: absolute;
+    font-size: 1.4vw;
+    font-weight: 500;
+    margin-top: 3%;
+    margin-left: 5%;
+    color: #505050;
+}
+.w{
+    position: absolute;
+    font-size: 0.7vw;
+    color: #ff0505;margin-left: 1%;
+}
